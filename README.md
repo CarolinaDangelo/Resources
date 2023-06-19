@@ -1,1 +1,1 @@
-# Resources for Devs
+# Resources
