@@ -102,3 +102,24 @@ If it helped you please give me a star 🌟
 * [AllTheFreeStock](https://allthefreestock.com/)
 * [Unsplash](https://unsplash.com/es)
 * [MixKit](https://mixkit.co/)
+
+## Illustrations
+
+* [BeanHead](https://beanheads.robertbroersma.com/)
+* [Delesign](https://delesign.com/free-designs/graphics/)
+* [DrawKit](https://www.drawkit.com/)
+* [GlazeStock](https://www.glazestock.com/)
+* [Humaaans](https://www.humaaans.com/)
+* [Illustrations.co](https://illlustrations.co/)
+* [IraDesigns](https://iradesign.io/)
+* [LukasZadam](https://lukaszadam.com/illustrations)
+* [ManyPixels](https://www.manypixels.co/gallery)
+* [OpenDoodles](https://www.opendoodles.com/)
+* [OpenPeeps](https://www.openpeeps.com/)
+* [Icons8](https://icons8.com/illustrations/)
+* [ShapeFest](https://www.shapefest.com/)
+* [SketchValley](https://sketchvalley.com/)
+* [Stubborn](https://stubborn.fun/)
+* [UIFaces](https://uifaces.co/)
+
+## Icons
