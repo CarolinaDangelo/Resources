@@ -128,4 +128,4 @@ If it helped you please give me a star 🌟
 
 ## Mockups
 
-*[AnthonyBoyd](https://www.minimalmockups.com/)
+* [AnthonyBoyd](https://www.minimalmockups.com/)
