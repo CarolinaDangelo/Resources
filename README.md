@@ -24,6 +24,7 @@ If it helped you please give me a star 🌟
 * [Picular](https://picular.co/)
 * [ColorMixer](https://colormixer.web.app/01007115ff623005e628811f57240301/Sunset)
 * [PaletteApp](https://palettte.app/)
+* [Paletton](https://paletton.com/)
 * [BrandColors](https://brandcolors.net/)
 * [ColorLeapApp](https://colorleap.app/home)
 * [ColorMind](http://colormind.io/)
