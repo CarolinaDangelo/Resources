@@ -133,6 +133,9 @@ If it helped you please give me a star 🌟
 * [EVAIcons](https://akveo.github.io/eva-icons/#/)
 * [ZWIcon](https://www.zwicon.com/)
 * [IconSvg](https://iconsvg.xyz/)
+* [Icons8](https://icons8.com/line-awesome)
+* [IconsVZY](https://icons.vzy.co/)
+* [FinSweet](https://finsweet.com/lottieflow)
 
 ## Mockups
 
