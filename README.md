@@ -131,7 +131,8 @@ If it helped you please give me a star 🌟
 * [FeatherIcons](https://feathericons.com/)
 * [HeroIcons](https://heroicons.com/)
 * [EVAIcons](https://akveo.github.io/eva-icons/#/)
-* 
+* [ZWIcon](https://www.zwicon.com/)
+* [IconSvg](https://iconsvg.xyz/)
 
 ## Mockups
 
