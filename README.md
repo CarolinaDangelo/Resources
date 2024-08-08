@@ -127,7 +127,11 @@ If it helped you please give me a star 🌟
 
 ## Icons
 
-* [Icons]()
+* [IconsGoogle](https://fonts.google.com/icons?icon.size=24&icon.color=%23e8eaed)
+* [FeatherIcons](https://feathericons.com/)
+* [HeroIcons](https://heroicons.com/)
+* [EVAIcons](https://akveo.github.io/eva-icons/#/)
+* 
 
 ## Mockups
 
