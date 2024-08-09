@@ -144,6 +144,7 @@ If it helped you please give me a star 🌟
 * [TeenyIcons](https://teenyicons.com/)
 * [CoolIcons](https://coolicons.cool/)
 * [Basicons](https://basicons.xyz/)
+* [Css.gg](https://css.gg/)
 
 ## Mockups
 
