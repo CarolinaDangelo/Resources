@@ -139,7 +139,11 @@ If it helped you please give me a star 🌟
 * [IconPark](https://iconpark.oceanengine.com/official)
 * [PhosphorIcons](https://phosphoricons.com/)
 * [IconMonstr](https://iconmonstr.com/)
-* 
+* [UseAnimations](https://useanimations.com/)
+* [Hicon](https://hicon.me/)
+* [TeenyIcons](https://teenyicons.com/)
+* [CoolIcons](https://coolicons.cool/)
+* [Basicons](https://basicons.xyz/)
 
 ## Mockups
 
