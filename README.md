@@ -136,6 +136,10 @@ If it helped you please give me a star 🌟
 * [Icons8](https://icons8.com/line-awesome)
 * [IconsVZY](https://icons.vzy.co/)
 * [FinSweet](https://finsweet.com/lottieflow)
+* [IconPark](https://iconpark.oceanengine.com/official)
+* [PhosphorIcons](https://phosphoricons.com/)
+* [IconMonstr](https://iconmonstr.com/)
+* 
 
 ## Mockups
 
