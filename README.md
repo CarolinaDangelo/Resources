@@ -146,7 +146,6 @@ If it helped you please give me a star 🌟
 * [Basicons](https://basicons.xyz/)
 * [Css.gg](https://css.gg/)
 * [Lordicon](https://lordicon.com/)
-* 
 
 ## Mockups
 
