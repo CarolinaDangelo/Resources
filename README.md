@@ -153,4 +153,3 @@ If it helped you please give me a star 🌟
 * [AnthonyBoyd](https://www.minimalmockups.com/)
 * [MockupWorld](https://www.mockupworld.co/)
 * [Envato](https://placeit.net/c/mockups)
-* 
